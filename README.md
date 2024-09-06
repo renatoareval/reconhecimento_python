@@ -1,3 +1,3 @@
 # reconhecimento_python
 
--- python3 reconhecimento_facial.py
+    - python3 reconhecimento_facial.py
